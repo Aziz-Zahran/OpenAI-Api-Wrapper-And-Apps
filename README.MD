@@ -1,4 +1,4 @@
-# OpenAI API Wrapper And Apps
+# OpenAI API Wrapper Library And Apps
 
 A lightweight OpenAI API wrapper written from scratch in C, with a collection of intelligent command-line applications built on top of it.
 
